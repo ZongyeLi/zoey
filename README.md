@@ -1,1 +1,2 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fhub.gke2.mybinder.org%2Fuser%2Fzongyeli-zoey-22a01vqt%2Flab%2Ftree%2FDashboard%2520by%2520Zongye%2520LI.ipynb/HEAD?urlpath=https%3A%2F%2Fhub.gke2.mybinder.org%2Fuser%2Fzongyeli-zoey-i7gaigrv%2Flab%2Ftree%2FDashboard%2520by%2520Zongye%2520LI.ipynb)
+https://mybinder.org/v2/gh/ZongyeLi/zoey/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FZongyeLi%2Fzoey%2Fblob%2Fmain%2FDashboard%2520by%2520Zongye%2520LI.ipynb
